@@ -23,7 +23,7 @@ Samus will ride her spaceship to another planet in the future.
 ```
 Samus will at some time in the future transport from one place to another from earth to another planet.
 ```
-Samus will trasnport from Earth to another planet in the future.
+Samus will transport from Earth to another planet in the future.
 ```
 Link is the hero
 of Hyrule
